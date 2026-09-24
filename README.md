@@ -59,4 +59,4 @@
 3. Kurulum dosyasını çalıştırın ve adımları izleyin. *(Not: Windows SmartScreen "Bilinmeyen Yayıncı" uyarısı verebilir. Devam etmek için **Ek Bilgi** -> **Yine de çalıştır** seçeneklerine tıklayın).*
 4. Flack Pro'yu masaüstünden başlatın ve yeni klavye sesinizin tadını çıkarın!
 
-**Geliştirici:** Efe Elevli
+"Developed by Efe Elevli (with AI assistance)" veya "Kodlama ve mimari tasarım sürecinde yapay zeka araçlarından destek alınmıştır."
