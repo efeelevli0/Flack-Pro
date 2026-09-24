@@ -2,7 +2,7 @@
 
 *(Scroll down for Turkish / Türkçe versiyonu için aşağı kaydırın)*
 
-**Flack Pro** is a zero-latency mechanical keyboard sound simulator for Windows. Designed for membrane, laptop, or silent mechanical keyboards, it runs quietly in the system tray and brings the satisfying acoustic feedback of premium custom mechanical switches directly to your typing experience. 
+**Flack Pro** is a zero-latency mechanical keyboard sound simulator for Windows. Designed for membrane, laptop, or silent mechanical keyboards, it runs quietly in the system tray and brings the satisfying acoustic feedback of premium custom mechanical switches directly to your typing experience. 
 
 ## ✨ Features
 * **Zero-Latency Audio Engine:** Built with a custom 512-buffer size audio engine to ensure instantaneous sound playback matching high refresh rate gaming setups.
@@ -60,3 +60,6 @@
 4. Flack Pro'yu masaüstünden başlatın ve yeni klavye sesinizin tadını çıkarın!
 
 "Developed by Efe Elevli (with AI assistance)" veya "Kodlama ve mimari tasarım sürecinde yapay zeka araçlarından destek alınmıştır."
+ virüs total uyarısını uygun bir yere eklesene şuda virus total linki 
+
+https://www.virustotal.com/gui/file/b9bbe7978cdfde08934694f79242a82a21444af7382b328e68ef611a1d3726c1?nocache=1
